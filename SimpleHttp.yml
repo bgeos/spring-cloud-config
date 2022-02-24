@@ -1,7 +1,7 @@
 SimpleHttp:
   profiles: cloud
   properties: 
-   //SimpleHttp.module//BW.DEPLOYMENTUNIT.NAME:BW.DEPLOYMENTUNIT.NAME
+    //SimpleHttp.module//BW.DEPLOYMENTUNIT.NAME:BW.DEPLOYMENTUNIT.NAME
     MESSAGE:Hello world from spring cloud
     //SimpleHttp.module//BW.MODULE.VERSION:BW.MODULE.VERSION
     //SimpleHttp.module//BW.MODULE.NAME:BW.MODULE.NAME
