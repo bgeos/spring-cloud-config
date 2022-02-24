@@ -1,7 +1,4 @@
-spring:
+SimpleHttp:
   profiles: default
-  cloud:
-    config:
-      uri: http://${CONFIGSERVER_1_PORT_8888_TCP_ADDR:localhost}:8888
-endpoints:
-  restart: enabled
+aplication:
+  MESSAGE: Hello world from Spring cloud config server
