@@ -1,4 +1,3 @@
 SimpleHttp:
   profiles: default
-application:
   MESSAGE: Hello world from Spring cloud config server
