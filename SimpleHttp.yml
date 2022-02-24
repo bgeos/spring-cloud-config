@@ -1,12 +1,10 @@
-SimpleHttp:
-  profiles: cloud
-  properties:
-    //SimpleHttp.module//BW.DEPLOYMENTUNIT.NAME: BW.DEPLOYMENTUNIT.NAME
-    MESSAGE: Hello world from spring cloud
-    //SimpleHttp.module//BW.MODULE.VERSION: BW.MODULE.VERSION
-    //SimpleHttp.module//BW.MODULE.NAME: BW.MODULE.NAME
-    //SimpleHttp.module//BW.APPNODE.NAME: BW.APPNODE.NAME
-    //SimpleHttp.module//BW.CLOUD.PORT: 8081
-    //SimpleHttp.module//BW.HOST.NAME: localhost
-    //SimpleHttp.module//BW.DEPLOYMENTUNIT.VERSION: BW.DEPLOYMENTUNIT.VERSION
-    //SimpleHttp.module//MESSAGE: Hello world from spring cloud
+ profiles: cloud
+//SimpleHttp.module//BW.DEPLOYMENTUNIT.NAME: BW.DEPLOYMENTUNIT.NAME
+MESSAGE: Hello world from spring cloud
+//SimpleHttp.module//BW.MODULE.VERSION: BW.MODULE.VERSION
+//SimpleHttp.module//BW.MODULE.NAME: BW.MODULE.NAME
+//SimpleHttp.module//BW.APPNODE.NAME: BW.APPNODE.NAME
+//SimpleHttp.module//BW.CLOUD.PORT: 8081
+//SimpleHttp.module//BW.HOST.NAME: localhost
+//SimpleHttp.module//BW.DEPLOYMENTUNIT.VERSION: BW.DEPLOYMENTUNIT.VERSION
+//SimpleHttp.module//MESSAGE: Hello world from spring cloud
