@@ -1,4 +1,0 @@
-SimpleHttp:
-  profiles: default
-MESSAGE: Hello world from spring cloud
-
