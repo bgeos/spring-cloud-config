@@ -1,5 +1,4 @@
 SimpleHttp:
   profiles: default
-  properties: 
-    MESSAGE:Hello world from spring cloud
+MESSAGE:Hello world from spring cloud
 
